@@ -4,7 +4,7 @@ This project is a Node.js application that runs on `localhost:3000`. Follow the 
 
 ## Prerequisites
 
-- [Node.js 22.x](https://nodejs.org/) (Make sure you're using Node.js version ^18.18.0, ^19.8.0, or >= 20.0.0
+- [Node.js 22.x](https://nodejs.org/) (Make sure you're using Node.js version ^18.18.0, ^19.8.0, or >= 20.0.0)
 - [npm](https://www.npmjs.com/) (Comes with Node.js)
 
 ## Steps to Set Up and Run Locally
