@@ -58,6 +58,6 @@ After the server is running, you can access the application in your web browser.
 
 http://localhost:3000
 
-### 6. Play around with the props
+### 6. Play around with the dropdown
 
-Once you have the application runnning, you can play around with the props that are being sent into the reusable dropdown in the page.js file. Feel free to use your own input to test the dropdown.
+Once you have the application runnning, you can play around with the props that are being sent to the reusable dropdown in the page.js file. Feel free to use your own input to test the dropdown.
